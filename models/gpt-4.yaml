@@ -6,7 +6,7 @@ mmap: true
 trimsuffix: 
 - "\n"
 parameters:
-  model: huggingface://laser-dolphin-mixtral-2x7b-dpo-GGUF/laser-dolphin-mixtral-2x7b-dpo.Q4_K_M.gguf
+  model: laser-dolphin-mixtral.gguf
   temperature: 0.2
 
 stopwords:
